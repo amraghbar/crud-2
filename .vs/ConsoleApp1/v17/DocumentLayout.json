@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER-Q\\Documents\\asp\\advace\\6-8\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E05241-A66F-4F43-A07F-D38436F97CA0}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\user-q\\documents\\asp\\advace\\6-8\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E05241-A66F-4F43-A07F-D38436F97CA0}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E05241-A66F-4F43-A07F-D38436F97CA0}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\user-q\\documents\\asp\\advace\\6-8\\consoleapp1\\consoleapp1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E05241-A66F-4F43-A07F-D38436F97CA0}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E05241-A66F-4F43-A07F-D38436F97CA0}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\user-q\\documents\\asp\\advace\\6-8\\consoleapp1\\consoleapp1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E05241-A66F-4F43-A07F-D38436F97CA0}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER-Q\\Documents\\asp\\advace\\6-8\\ConsoleApp1\\ConsoleApp1\\Migrations\\20240807222056_InitialCreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\Migrations\\20240807222056_InitialCreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER-Q\\Documents\\asp\\advace\\6-8\\ConsoleApp1\\ConsoleApp1\\Migrations\\20240807221833_InitialCreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\Migrations\\20240807221833_InitialCreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E05241-A66F-4F43-A07F-D38436F97CA0}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\user-q\\documents\\asp\\advace\\6-8\\consoleapp1\\consoleapp1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E05241-A66F-4F43-A07F-D38436F97CA0}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER-Q\\Documents\\asp\\advace\\6-8\\ConsoleApp1\\ConsoleApp1\\Migrations\\20240807220919_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\Migrations\\20240807220919_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER-Q\\Documents\\asp\\advace\\6-8\\ConsoleApp1\\ConsoleApp1\\Migrations\\20240807220706_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\Migrations\\20240807220706_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E05241-A66F-4F43-A07F-D38436F97CA0}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\user-q\\documents\\asp\\advace\\6-8\\consoleapp1\\consoleapp1\\consoleapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F7E05241-A66F-4F43-A07F-D38436F97CA0}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\consoleapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E05241-A66F-4F43-A07F-D38436F97CA0}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\user-q\\documents\\asp\\advace\\6-8\\consoleapp1\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F7E05241-A66F-4F43-A07F-D38436F97CA0}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E05241-A66F-4F43-A07F-D38436F97CA0}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\user-q\\documents\\asp\\advace\\6-8\\consoleapp1\\consoleapp1\\configuration\\ordconf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E05241-A66F-4F43-A07F-D38436F97CA0}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\configuration\\ordconf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E05241-A66F-4F43-A07F-D38436F97CA0}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\user-q\\documents\\asp\\advace\\6-8\\consoleapp1\\consoleapp1\\configuration\\proconf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E05241-A66F-4F43-A07F-D38436F97CA0}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\configuration\\proconf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240807222056_InitialCreate2.cs",
+              "DocumentMoniker": "C:\\Users\\USER-Q\\Documents\\asp\\advace\\6-8\\ConsoleApp1\\ConsoleApp1\\Migrations\\20240807222056_InitialCreate2.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Migrations\\20240807222056_InitialCreate2.cs",
+              "ToolTip": "C:\\Users\\USER-Q\\Documents\\asp\\advace\\6-8\\ConsoleApp1\\ConsoleApp1\\Migrations\\20240807222056_InitialCreate2.cs",
+              "RelativeToolTip": "ConsoleApp1\\Migrations\\20240807222056_InitialCreate2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T22:20:56.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240807221833_InitialCreate2.cs",
+              "DocumentMoniker": "C:\\Users\\USER-Q\\Documents\\asp\\advace\\6-8\\ConsoleApp1\\ConsoleApp1\\Migrations\\20240807221833_InitialCreate2.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Migrations\\20240807221833_InitialCreate2.cs",
+              "ToolTip": "C:\\Users\\USER-Q\\Documents\\asp\\advace\\6-8\\ConsoleApp1\\ConsoleApp1\\Migrations\\20240807221833_InitialCreate2.cs",
+              "RelativeToolTip": "ConsoleApp1\\Migrations\\20240807221833_InitialCreate2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T22:18:33.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240807220919_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\USER-Q\\Documents\\asp\\advace\\6-8\\ConsoleApp1\\ConsoleApp1\\Migrations\\20240807220919_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Migrations\\20240807220919_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\USER-Q\\Documents\\asp\\advace\\6-8\\ConsoleApp1\\ConsoleApp1\\Migrations\\20240807220919_InitialCreate.cs",
+              "RelativeToolTip": "ConsoleApp1\\Migrations\\20240807220919_InitialCreate.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T22:09:19.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppLicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER-Q\\Documents\\asp\\advace\\6-8\\ConsoleApp1\\ConsoleApp1\\Data\\AppLicationDbContext.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Data\\AppLicationDbContext.cs",
+              "ToolTip": "C:\\Users\\USER-Q\\Documents\\asp\\advace\\6-8\\ConsoleApp1\\ConsoleApp1\\Data\\AppLicationDbContext.cs",
+              "RelativeToolTip": "ConsoleApp1\\Data\\AppLicationDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwBcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T21:45:06.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER-Q\\Documents\\asp\\advace\\6-8\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\USER-Q\\Documents\\asp\\advace\\6-8\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAWwDcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T21:41:31.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\USER-Q\\Documents\\asp\\advace\\6-8\\ConsoleApp1\\ConsoleApp1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\USER-Q\\Documents\\asp\\advace\\6-8\\ConsoleApp1\\ConsoleApp1\\Models\\Product.cs",
+              "RelativeToolTip": "ConsoleApp1\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIAwwAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T21:42:21.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\USER-Q\\Documents\\asp\\advace\\6-8\\ConsoleApp1\\ConsoleApp1\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\USER-Q\\Documents\\asp\\advace\\6-8\\ConsoleApp1\\ConsoleApp1\\Models\\Order.cs",
+              "RelativeToolTip": "ConsoleApp1\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIAwwAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T21:43:14.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240807220706_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\USER-Q\\Documents\\asp\\advace\\6-8\\ConsoleApp1\\ConsoleApp1\\Migrations\\20240807220706_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Migrations\\20240807220706_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\USER-Q\\Documents\\asp\\advace\\6-8\\ConsoleApp1\\ConsoleApp1\\Migrations\\20240807220706_InitialCreate.cs",
+              "RelativeToolTip": "ConsoleApp1\\Migrations\\20240807220706_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T22:07:06.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConsoleApp1",
+              "DocumentMoniker": "C:\\Users\\USER-Q\\Documents\\asp\\advace\\6-8\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ToolTip": "C:\\Users\\USER-Q\\Documents\\asp\\advace\\6-8\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1\\ConsoleApp1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-07T22:05:06.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConsoleApp1",
+              "DocumentMoniker": "C:\\Users\\USER-Q\\Documents\\asp\\advace\\6-8\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ToolTip": "C:\\Users\\USER-Q\\Documents\\asp\\advace\\6-8\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-07T21:44:33.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrdConf.cs",
+              "DocumentMoniker": "C:\\Users\\USER-Q\\Documents\\asp\\advace\\6-8\\ConsoleApp1\\ConsoleApp1\\configuration\\OrdConf.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\configuration\\OrdConf.cs",
+              "ToolTip": "C:\\Users\\USER-Q\\Documents\\asp\\advace\\6-8\\ConsoleApp1\\ConsoleApp1\\configuration\\OrdConf.cs",
+              "RelativeToolTip": "ConsoleApp1\\configuration\\OrdConf.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwBAAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T22:01:34.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Proconf.cs",
+              "DocumentMoniker": "C:\\Users\\USER-Q\\Documents\\asp\\advace\\6-8\\ConsoleApp1\\ConsoleApp1\\configuration\\Proconf.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\configuration\\Proconf.cs",
+              "ToolTip": "C:\\Users\\USER-Q\\Documents\\asp\\advace\\6-8\\ConsoleApp1\\ConsoleApp1\\configuration\\Proconf.cs",
+              "RelativeToolTip": "ConsoleApp1\\configuration\\Proconf.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T21:56:41.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
